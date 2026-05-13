@@ -119,7 +119,7 @@ function GiftModal({ onClose }) {
             <p className="text-xs tracking-[0.35em] uppercase mb-2"
               style={{fontFamily:"'Cormorant Garamond',Georgia,serif",color:"rgba(232,180,184,0.65)"}}>Alias</p>
             <p className="text-lg tracking-widest select-all"
-              style={{fontFamily:"'Playfair Display',Georgia,serif",color:"#fff",letterSpacing:"0.12em"}}>kmsOff</p>
+              style={{fontFamily:"'Playfair Display',Georgia,serif",color:"#fff",letterSpacing:"0.12em"}}>sofi.luquemp</p>
           </div>
           <div className="p-4" style={{background:"rgba(0,0,0,0.22)",border:"1px solid rgba(255,255,255,0.1)"}}>
             <p className="text-xs tracking-[0.35em] uppercase mb-2"
